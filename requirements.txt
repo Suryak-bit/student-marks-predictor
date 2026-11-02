@@ -1,0 +1,7 @@
+text
+
+streamlit
+pandas
+numpy
+joblib
+sckit-learning
